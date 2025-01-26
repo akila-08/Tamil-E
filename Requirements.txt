@@ -1,6 +1,6 @@
 streamlit
 Pillow
-tensorflow==2.12.0
+tensorflow
 numpy
 opencv-python-headless
 matplotlib
